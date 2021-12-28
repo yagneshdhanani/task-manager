@@ -1,0 +1,7 @@
+i {
+  cursor: pointer;
+}
+
+input:checked {
+  cursor: pointer;
+}
